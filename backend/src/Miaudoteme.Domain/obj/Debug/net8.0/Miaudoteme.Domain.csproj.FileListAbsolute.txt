@@ -1,0 +1,12 @@
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\bin\Debug\net8.0\Miaudoteme.Domain.deps.json
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\bin\Debug\net8.0\Miaudoteme.Domain.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\bin\Debug\net8.0\Miaudoteme.Domain.pdb
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.AssemblyInfoInputs.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.AssemblyInfo.cs
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.csproj.CoreCompileInputs.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.sourcelink.json
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\refint\Miaudoteme.Domain.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\Miaudoteme.Domain.pdb
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Domain\obj\Debug\net8.0\ref\Miaudoteme.Domain.dll
