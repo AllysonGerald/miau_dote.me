@@ -16,9 +16,12 @@ namespace Miaudoteme.Domain.ValueObjects
             if(document.Length > 11)
             {
                 ValidarCNPJ(_document);
-            }   
+            } 
+            else
+            {
+                ValidarCPF(_document);
+            }  
                 
-            ValidarCPF(_document);
 
         }
 

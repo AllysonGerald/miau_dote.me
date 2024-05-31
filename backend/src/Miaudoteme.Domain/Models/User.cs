@@ -5,14 +5,16 @@ namespace Miaudoteme.Domain.Models
     public class User : Entity
     {
         public NameVO Name { get; set; }
-        public string CPF { get; set; }
-        public string Email { get; set; }
+        public Document CPF { get; set; }
+        public Address? Address{ get; set; }
+        public Email Email { get; set; }
         public string Password { get; set; }
 
-        public User(NameVO name, string cPF, string email, string password)
+        public User(NameVO name, Document cPF, Address address, Email email, string password)
         {
             Name = name;
             CPF = cPF;
+            Address = address;
             Email = email;
             Password = password;
         }
