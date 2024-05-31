@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2584ff7ae64742c022ccaf22e6d753efee472ee5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf9fa1eca4be13cf21523db37d02e9635049cfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
