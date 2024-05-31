@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\dev\\miau_dote.me\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|f:\\dev\\miau_dote.me\\backend\\src\\miaudoteme.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|solutionrelative:src\\miaudoteme.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|f:\\dev\\miau_dote.me\\backend\\src\\miaudoteme.domain\\valueobjects\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|solutionrelative:src\\miaudoteme.domain\\valueobjects\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DA9625EF-46AE-48A6-A322-42541DD36542}|test\\Miaudotem.tests\\Miaudotem.tests.csproj|f:\\dev\\miau_dote.me\\backend\\test\\miaudotem.tests\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9625EF-46AE-48A6-A322-42541DD36542}|test\\Miaudotem.tests\\Miaudotem.tests.csproj|solutionrelative:test\\miaudotem.tests\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|f:\\dev\\miau_dote.me\\backend\\src\\miaudoteme.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|solutionrelative:src\\miaudoteme.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56642630-CD05-49A1-8D6A-3F0DAD911D79}|src\\Miaudoteme.Domain\\Miaudoteme.Domain.csproj|f:\\dev\\miau_dote.me\\backend\\src\\miaudoteme.domain\\valueobjects\\namevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Document.cs",
               "DocumentMoniker": "F:\\dev\\miau_dote.me\\backend\\src\\Miaudoteme.Domain\\ValueObjects\\Document.cs",
               "RelativeDocumentMoniker": "src\\Miaudoteme.Domain\\ValueObjects\\Document.cs",
@@ -59,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValidateDocuments.cs",
               "DocumentMoniker": "F:\\dev\\miau_dote.me\\backend\\src\\Miaudoteme.Domain\\ValueObjects\\ValidateDocuments.cs",
               "RelativeDocumentMoniker": "src\\Miaudoteme.Domain\\ValueObjects\\ValidateDocuments.cs",
@@ -67,12 +75,11 @@
               "RelativeToolTip": "src\\Miaudoteme.Domain\\ValueObjects\\ValidateDocuments.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:58:59.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:58:59.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ValidationsUserTests.cs",
               "DocumentMoniker": "F:\\dev\\miau_dote.me\\backend\\test\\Miaudotem.tests\\ValidationsUserTests.cs",
               "RelativeDocumentMoniker": "test\\Miaudotem.tests\\ValidationsUserTests.cs",
@@ -80,12 +87,11 @@
               "RelativeToolTip": "test\\Miaudotem.tests\\ValidationsUserTests.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:39:30.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:39:30.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Using.cs",
               "DocumentMoniker": "F:\\dev\\miau_dote.me\\backend\\test\\Miaudotem.tests\\Using.cs",
               "RelativeDocumentMoniker": "test\\Miaudotem.tests\\Using.cs",
@@ -93,8 +99,7 @@
               "RelativeToolTip": "test\\Miaudotem.tests\\Using.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:34:43.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:34:43.137Z"
             },
             {
               "$type": "Document",
@@ -106,29 +111,20 @@
               "RelativeToolTip": "src\\Miaudoteme.Domain\\ValueObjects\\NameVO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:22:44.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:22:44.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\dev\\miau_dote.me\\backend\\src\\Miaudoteme.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "src\\Miaudoteme.Domain\\Models\\User.cs",
               "ToolTip": "F:\\dev\\miau_dote.me\\backend\\src\\Miaudoteme.Domain\\Models\\User.cs",
               "RelativeToolTip": "src\\Miaudoteme.Domain\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T01:16:57.072Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "src\\Miaudoteme.Domain\\Interface\\IAddressRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:16:17.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:16:17.415Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "src\\Miaudoteme.Domain\\Interface\\IShelterRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:12:19.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T01:12:19.2Z"
             }
           ]
         }
