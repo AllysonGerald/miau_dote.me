@@ -18,7 +18,6 @@ namespace Miaudoteme.Domain.Models
             Address = address;
             Email = email;
             Password = password;
-            Animals = new List<Animal>();
         }
     }
 }

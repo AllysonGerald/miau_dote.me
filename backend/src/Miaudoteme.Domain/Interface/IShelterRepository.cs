@@ -1,6 +1,8 @@
-﻿namespace Miaudoteme.Domain.Interface
+﻿using Miaudoteme.Domain.Models;
+
+namespace Miaudoteme.Domain.Interface
 {
-    public interface IShelterRepository
+    public interface IShelterRepository : IGenericRepository<Shelter>
     {
     }
 }

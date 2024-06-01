@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4581eb957ea0ac6ae422e5bdac4567a917ddea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec05a08ec82d715f23a7ec9e1e6e6644cdbd091")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miaudotem.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
