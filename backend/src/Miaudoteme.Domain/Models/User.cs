@@ -7,10 +7,10 @@ namespace Miaudoteme.Domain.Models
         public NameVO Name { get; set; }
         public Document CPF { get; set; }
         public Address? Address{ get; set; }
-        public Email Email { get; set; }
+        public EmailVO Email { get; set; }
         public string Password { get; set; }
 
-        public User(NameVO name, Document cPF, Address address, Email email, string password)
+        public User(NameVO name, Document cPF, Address address, EmailVO email, string password)
         {
             Name = name;
             CPF = cPF;

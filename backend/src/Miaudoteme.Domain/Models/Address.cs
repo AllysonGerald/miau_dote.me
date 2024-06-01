@@ -9,7 +9,7 @@
         public string City { get; set; }
         public string State { get; set; }   
 
-        public Address(string street, string number, string complement, string neighborhood string city, string state)
+        public Address(string street, string number, string complement, string neighborhood, string city, string state)
         {
             Street = street;
             Number = number;
