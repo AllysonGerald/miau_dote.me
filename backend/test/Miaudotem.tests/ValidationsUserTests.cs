@@ -16,11 +16,11 @@ namespace Miaudotem.tests
             Address address = null;
             // Act
             
-            var newUser = new User(name, cpf, address, email, passworld);
+            var newUser = new Adopter(name, cpf, address, email, passworld);
 
             // Assert
 
-            Assert.Equal<User>(newUser, newUser);
+            Assert.Equal<Adopter>(newUser, newUser);
         }
     }
 }
