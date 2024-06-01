@@ -10,13 +10,13 @@ namespace Miaudotem.tests
         {
             // Arrange
             NameVO name = new NameVO("Mar");
-            string cpf = "12345678900";
-            string email = "marcelo@gmail.com";
+            Document cpf = new Document("60032679335");
+            EmailVO email = new EmailVO("marcelo@gmail.com");
             string passworld = "123456";
-
+            Address address = null;
             // Act
             
-            var newUser = new User(name, cpf, email, passworld);
+            var newUser = new User(name, cpf, address, email, passworld);
 
             // Assert
 
