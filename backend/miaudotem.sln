@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miaudoteme.Domain", "src\Miaudoteme.Domain\Miaudoteme.Domain.csproj", "{56642630-CD05-49A1-8D6A-3F0DAD911D79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miaudotem.tests", "test\Miaudotem.tests\Miaudotem.tests.csproj", "{DA9625EF-46AE-48A6-A322-42541DD36542}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D2090737-14D6-40D9-B371-88C4C01A6047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miaudoteme.Infraestructure", "src\Miaudoteme.Infraestructure\Miaudoteme.Infraestructure.csproj", "{AD510622-921D-49AB-90AC-687FBFBD9186}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,11 +25,20 @@ Global
 		{DA9625EF-46AE-48A6-A322-42541DD36542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9625EF-46AE-48A6-A322-42541DD36542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9625EF-46AE-48A6-A322-42541DD36542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD510622-921D-49AB-90AC-687FBFBD9186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD510622-921D-49AB-90AC-687FBFBD9186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD510622-921D-49AB-90AC-687FBFBD9186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD510622-921D-49AB-90AC-687FBFBD9186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0BD3BB7F-7D1F-46D6-999F-E4DEA6878C28}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56642630-CD05-49A1-8D6A-3F0DAD911D79} = {D2090737-14D6-40D9-B371-88C4C01A6047}
+		{DA9625EF-46AE-48A6-A322-42541DD36542} = {D2090737-14D6-40D9-B371-88C4C01A6047}
+		{AD510622-921D-49AB-90AC-687FBFBD9186} = {D2090737-14D6-40D9-B371-88C4C01A6047}
 	EndGlobalSection
 EndGlobal
