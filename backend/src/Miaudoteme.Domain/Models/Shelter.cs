@@ -11,6 +11,8 @@ namespace Miaudoteme.Domain.Models
         public Address? Address { get; set; }
         public NameVO Owner { get; set; }
 
+        public List<Animal> Animals { get; set; }
+
         public Shelter(NameVO name, Document cNPJ, string phone, EmailVO email, Address address, NameVO owner)
         {
             Name = name;
@@ -19,6 +21,7 @@ namespace Miaudoteme.Domain.Models
             Email = email;
             Address = address;
             Owner = owner;
+            Animals = new List<Animal>();
         }
     }
 }

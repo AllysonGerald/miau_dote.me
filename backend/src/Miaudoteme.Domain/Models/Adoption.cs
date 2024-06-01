@@ -12,6 +12,10 @@ namespace Miaudoteme.Domain.Models
         public decimal Amount { get; set; }
         public StatusAdoption StatusAdoption { get; set; }
 
+        public Guid AdopterId { get; set; } // FK
+        public Guid AnimalId { get; set; } // FK
+        
+
         public Adoption(Adopter adopter, Animal animal)
         {
             CodAdoption = Id.ToString().Replace("-", "")[..10];
