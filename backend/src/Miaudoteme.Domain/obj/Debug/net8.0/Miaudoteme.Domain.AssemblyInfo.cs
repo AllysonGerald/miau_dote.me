@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miaudoteme.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70105b01411e2e83433fb34be4575d8bb597e697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d43d04ac3d6b2c5ff20dc1713822ad96225113")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miaudoteme.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miaudoteme.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

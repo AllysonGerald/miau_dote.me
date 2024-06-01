@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace Miaudotem.tests
 {
+    
     public class ValidationAnimalTests
     {
         [Fact]
-       public void DeveRetornarUmAnimalValido()
+       public void Deve_Retornar_Um_Animal_Valido()
        {
             //Arrange
             var nome = new NameVO("Meu Doguinho");
