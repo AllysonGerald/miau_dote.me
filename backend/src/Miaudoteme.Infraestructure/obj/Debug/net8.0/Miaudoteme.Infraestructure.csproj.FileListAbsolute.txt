@@ -1,0 +1,15 @@
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\bin\Debug\net8.0\Miaudoteme.Infraestructure.deps.json
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\bin\Debug\net8.0\Miaudoteme.Infraestructure.runtimeconfig.json
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\bin\Debug\net8.0\Miaudoteme.Infraestructure.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\bin\Debug\net8.0\Miaudoteme.Infraestructure.pdb
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.csproj.AssemblyReference.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.AssemblyInfoInputs.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.AssemblyInfo.cs
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.csproj.CoreCompileInputs.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.sourcelink.json
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\refint\Miaudoteme.Infraestructure.dll
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.pdb
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\Miaudoteme.Infraestructure.genruntimeconfig.cache
+F:\dev\miau_dote.me\backend\src\Miaudoteme.Infraestructure\obj\Debug\net8.0\ref\Miaudoteme.Infraestructure.dll

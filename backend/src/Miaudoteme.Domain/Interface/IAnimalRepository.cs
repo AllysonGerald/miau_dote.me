@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Miaudoteme.Domain.Models;
 
 namespace Miaudoteme.Domain.Interface
 {
-    public interface IAnimalRepository
+    public interface IAnimalRepository : IGenericRepository<Animal>
     {
     }
 }
